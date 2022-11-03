@@ -51,7 +51,7 @@ function BotCard({ bot, getMyArmy, handleFilter }) {
                   handleFilter(bot)
                 }
               >
-                x
+                Remove
               </button> : 
               true
             }
